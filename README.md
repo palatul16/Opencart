@@ -41,7 +41,7 @@ Diiferent OS  <br/>
 Various Features
 
 ## TESTED AREAS
-<br/><br/>[Project.xlsx](https://github.com/user-attachments/files/17787292/Project.xlsx)
+<br/>[Project.xlsx](https://github.com/user-attachments/files/17787292/Project.xlsx)
 <br/><br/>[TEST PLAN](https://github.com/user-attachments/assets/e4312b8f-3304-4293-9a9a-b4301c8b3082)
 <br/><br/>[Test Plan.docx](https://github.com/user-attachments/files/17787294/Test.Plan.docx)
 <br/><br/>[Bug Report.xlsx](https://github.com/user-attachments/files/17787293/Bug.Report.xlsx)
