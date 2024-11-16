@@ -18,26 +18,26 @@ https://demo.opencart.com/
 
 ## Directory Structure
 
-=> Daily Practice of Manual Testing
-=> Assignments
-=> Daily DLC
-=> Construct Week
-=> Project
-=> Test Plan
-=> Mind Map
-=> Test Scenario
-=> Test Cases
-=> Bug Report
-=> Summary
+=> Daily Practice of Manual Testing <br/> 
+=> Assignments <br/> 
+=> Daily DLC <br/> 
+=> Construct Week <br/> 
+=> Project <br/> 
+=> Test Plan <br/> 
+=> Mind Map <br/> 
+=> Test Scenario <br/> 
+=> Test Cases <br/> 
+=> Bug Report <br/> 
+=> Summary <br/> 
 
 ## Credentials
-=> Username :- "qrst@gmail.com"
+=> Username :- "qrst@gmail.com"  <br/> 
 => Password :- "1236"
 
 ## SCOPE
 
-Different Testing <br/> | 
-Diiferent OS | 
+Different Testing <br/> 
+Diiferent OS  <br/> 
 Various Features
 
 ## RECOMMENDATION AND SUGGESTION
