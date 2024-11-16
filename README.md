@@ -40,6 +40,10 @@ Different Testing <br/>
 Diiferent OS  <br/> 
 Various Features
 
+## TESTED AREAS
+
+https://drive.google.com/file/d/1TdLF5wzxb2JLN4McF7as1Za0MVmIKhkv/view?usp=sharing
+
 ## RECOMMENDATION AND SUGGESTION
 
 ### Recommendations:
