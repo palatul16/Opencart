@@ -50,7 +50,7 @@ Various Features
 3. **Detail Testing Types:** Break testing into functional, usability, regression, and performance categories.
 4. **Defect Tracking:** Add severity levels (critical, major, minor) for defects to prioritize fixes.
 5. **Consider Automation:** Mention potential plans for automation in the future to scale the testing process.
-6. **Performance Testing: ** If relevant, plan for performance tests like load and stress testing.
+6. **Performance Testing:** If relevant, plan for performance tests like load and stress testing.
 
 ### Suggestions:
 1. **Test Case Design:** Include edge cases, such as "insufficient funds" during course purchases.
