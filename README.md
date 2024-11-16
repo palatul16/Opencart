@@ -47,17 +47,17 @@ Various Features
 ### Recommendations:
 1. **Clarify Test Scope:** Define exclusions like non-functional testing (e.g., security, performance).
 2. **Specify Versions:** List exact browser and OS versions to ensure cross-compatibility testing.
-3. **Detail Testing Types:** Break testing into functional, usability, regression, and performance categories.
+3. **Detail Testing Types:** Break testing into functional, usability, and performance categories.
 4. **Defect Tracking:** Add severity levels (critical, major, minor) for defects to prioritize fixes.
 5. **Consider Automation:** Mention potential plans for automation in the future to scale the testing process.
 6. **Performance Testing:** If relevant, plan for performance tests like load and stress testing.
 
 ### Suggestions:
-1. **Test Case Design:** Include edge cases, such as "insufficient funds" during course purchases.
+1. **Test Case Design:** Include edge cases, such as "insufficient funds" during gadget purchases.
 2. **Communication Channels:** Specify all communication methods (e.g., Slack, email, stand-ups) for better coordination.
-3. **Entry/Exit Criteria:** Refine phase entry/exit conditions to be more specific (e.g., environment readiness, defect logging).
+3. **Entry/Exit Criteria:** Refine phase entry/exit conditions to be more specific.
 4. **Test Environment Setup:** Mention specific server/database configurations and third-party integrations required.
-5. **Risk Management**: Identify potential risks (e.g., scope creep, resource issues) and mitigation strategies.
+5. **Risk Management**: Identify potential challenges and solutions strategies.
 6. **Version Control:** Add versioning to track updates and changes to the test plan document.
 
 ## Feedback
