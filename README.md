@@ -42,7 +42,7 @@ Various Features
 
 ## Tested Areas
 
-1. https://drive.google.com/file/d/12l7PlouWRcuJ4FT0skHQnBjbXPi1Pnkr/view?usp=sharing
+1. https://github.com/palatul16/Opencart/blob/main/Bug%20Report.pdf
 2. https://drive.google.com/file/d/1ow0GUjBrJ6vPnDWQ87pk_umPVYtvYuN8/view?usp=sharing
 3. https://drive.google.com/file/d/1i1bYZsMrYs8pWhAKMTub0RRBA2VbUpf3/view?usp=sharing
 4. https://drive.google.com/file/d/1TdLF5wzxb2JLN4McF7as1Za0MVmIKhkv/view?usp=sharing
