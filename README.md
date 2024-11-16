@@ -1,6 +1,6 @@
 # OPENCART - An e-commerce Gadget Store
 
-It is an E-commerce Website based on electronics Gadget
+It is an E-commerce Website based on electronics Gadget <br/>  <br/> 
 ![image](https://github.com/user-attachments/assets/dac9f642-3b7f-48ee-92e5-db14c7b5f832)
 
 ## INTRODUCTION
