@@ -30,7 +30,7 @@ https://demo.opencart.com/
 => Bug Report <br/> 
 => Summary <br/> 
 
-## Credentials
+## CREDENTIALS
 => Username :- "qrst@gmail.com"  <br/> 
 => Password :- "1236"
 
@@ -40,7 +40,14 @@ Different Testing <br/>
 Diiferent OS  <br/> 
 Various Features
 
-<a href="https://docs.google.com/spreadsheets/d/1oFmMWYn53VFpZ6WYR6vaf1vMlrvGus5l/edit?usp=drive_link&ouid=107250755525350661746&rtpof=true&sd=true"></a>
+## TESTED AREAS
+[Project.xlsx](https://github.com/user-attachments/files/17787292/Project.xlsx)
+[TEST PLAN](https://github.com/user-attachments/assets/e4312b8f-3304-4293-9a9a-b4301c8b3082)
+[Test Plan.docx](https://github.com/user-attachments/files/17787294/Test.Plan.docx)
+[Bug Report.xlsx](https://github.com/user-attachments/files/17787293/Bug.Report.xlsx)
+
+
+
 
 ## RECOMMENDATION AND SUGGESTION
 
