@@ -36,8 +36,8 @@ https://demo.opencart.com/
 
 ## SCOPE
 
-Different Testing /n
-Diiferent OS
+Different Testing | 
+Diiferent OS | 
 Various Features
 
 ## Tested Areas
