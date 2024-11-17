@@ -5,7 +5,7 @@ It is an E-commerce Website based on electronics Gadget <br/>  <br/>
 
 ## INTRODUCTION
 
-Opencart is an e-commerce website for shopping of electronics and digital items.Here I perform functional and usabilty testing .
+Opencart is an e-commerce website for shopping of electronics and digital items.Here I perform functional, usabilty & Functional Testing.
 
 
 ## PROJECT TYPE
@@ -16,7 +16,7 @@ Manual Testing
 
 https://demo.opencart.com/
 
-## Directory Structure
+## DIRECTORY STRUCTURE
 
 => Daily Practice of Manual Testing <br/> 
 => Assignments <br/> 
