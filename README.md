@@ -43,7 +43,7 @@ Various Features
 ## TESTED AREAS
 [Project.xlsx](https://github.com/user-attachments/files/17787292/Project.xlsx)
 <br/><br/>[TEST PLAN](https://github.com/user-attachments/assets/e4312b8f-3304-4293-9a9a-b4301c8b3082)
-<br/><br/>[Test Plan.docx](https://github.com/user-attachments/files/17787294/Test.Plan.docx)
+<br/><br/>[Test Plan.docx](https://github.com/user-attachments/files/17790428/Test.Plan.docx)
 <br/><br/>[Bug Report.xlsx](https://github.com/user-attachments/files/17787293/Bug.Report.xlsx)
 <br/><br/>[TEST SUMMARY REPORT.docx](https://github.com/user-attachments/files/17787457/TEST.SUMMARY.REPORT.docx)
 
