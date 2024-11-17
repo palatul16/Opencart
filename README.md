@@ -5,7 +5,7 @@ It is an E-commerce Website based on electronics Gadget <br/>  <br/>
 
 ## INTRODUCTION
 
-OpenCart is an e-commerce website for shopping electronics and digital items. Here, I perform functional and usability testing, which ensures accuracy, efficiency, and quality.
+OpenCart is an e-commerce website for shopping electronics and digital items. Here, I perform functional, usability and performance testing, which ensures accuracy, efficiency, and quality.
 
 
 ## PROJECT TYPE
