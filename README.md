@@ -31,7 +31,7 @@ https://demo.opencart.com/
 => Summary <br/> 
 
 ## CREDENTIALS
-=> Username :- "qrst@gmail.com"  <br/> 
+=> Username :- "qrst@gmail.com"  
 => Password :- "1236"
 
 ## SCOPE
